@@ -1,4 +1,4 @@
-[Capture vidéo du 2025-01-07 09-47-34.webm](https://github.com/user-attachments/assets/1fe2d2e4-e717-4bd5-ab5e-b9f215151651)# Qt-NotePlayer
+Qt-NotePlayer
 
 1. Prérequis
 
