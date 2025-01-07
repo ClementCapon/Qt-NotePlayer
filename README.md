@@ -46,6 +46,22 @@
 
         - Remplacez les pointilliers par ce que vous voulez tout en respectant ( VARCHAR, VARCHAR, INT )
 
-3. Préparation du code
+3. Préparation du Code
+
+      - Clonez ce dépôt
+
+            git clone https://github.com/ClementCapon/Qt-NotePlayer.git
+            cd Qt-NotePlayer
+
+      - Modifier l'adresse IP de connexion MySQL
+
+      - Dans main.cpp, modifiez l'adresse de connexion avec celle de votre serveur MySQL (remplacez 127.0.0.1 par votre adresse réseau si nécessaire). Exemple :
+
+            db.setDatabaseName("NoteJoueur");
+            ...
+            db.setUserName("votre_nom_d'utilisateur");
+            db.setPassword("votre_mdp");
+        
+        - Mettez un autre identifiant que root car cela peut poser des problèmes à la connexion entre le code et la base de données.
 
    
