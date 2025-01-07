@@ -71,6 +71,11 @@
 
       - Pour compiler et exécuter sur Qt, c'est très simple, tapez *CTRL + R* 
 
+[Uploading Capture vidéo du 2025-01-07 09-26-21.webm…]()
+
+[Uploading Capture vidéo du 2025-01-07 09-27-31.webm…]()
+
+
 5. Dépannage des erreurs de connexion
 
       - Assurez-vous que le serveur MySQL est démarré :
