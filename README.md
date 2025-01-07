@@ -71,11 +71,12 @@
 
       - Pour compiler et exécuter sur Qt, c'est très simple, tapez *CTRL + R* 
 
-[Capture vidéo du 2025-01-07 09-26-21.webm](https://github.com/user-attachments/assets/67bc1ba2-8f25-4be0-a693-9fb92dd2801f)
+[Mise à Jour de la BDD](https://github.com/user-attachments/assets/67bc1ba2-8f25-4be0-a693-9fb92dd2801f)
 
-[Capture vidéo du 2025-01-07 09-27-31.webm](https://github.com/user-attachments/assets/f4d06371-baf7-41cf-a5a9-43eb7ce1ae45)
+      - Pour confirmer la modification tapez la touche *entrer*
 
-
+[Après la Mise à Jour](https://github.com/user-attachments/assets/f4d06371-baf7-41cf-a5a9-43eb7ce1ae45)
+      
 5. Dépannage des erreurs de connexion
 
       - Assurez-vous que le serveur MySQL est démarré :
