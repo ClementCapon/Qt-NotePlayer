@@ -1,4 +1,6 @@
-Qt-NotePlayer
+#Qt-NotePlayer#
+
+---
 
 1. Prérequis
 
