@@ -73,7 +73,7 @@
 
 [Mise à Jour de la BDD](https://github.com/user-attachments/assets/67bc1ba2-8f25-4be0-a693-9fb92dd2801f)
 
-      - Pour confirmer la modification tapez la touche *entrer*
+Pour confirmer la modification tapez la touche *entrer*
 
 [Après la Mise à Jour](https://github.com/user-attachments/assets/f4d06371-baf7-41cf-a5a9-43eb7ce1ae45)
       
