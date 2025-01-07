@@ -46,7 +46,7 @@
 
         - Remplacez les pointilliers par ce que vous voulez tout en respectant ( VARCHAR, VARCHAR, INT )
 
-[Capture vidéo du 2025-01-07 09-17-11.webm](https://github.com/user-attachments/assets/149c42fa-65f9-4070-8997-d6b7f34db71d)
+[Affichage de la BDD et de ce qu'elle contient](https://github.com/user-attachments/assets/149c42fa-65f9-4070-8997-d6b7f34db71d)
 
 
 3. Préparation du Code
