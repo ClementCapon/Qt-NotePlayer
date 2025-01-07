@@ -45,6 +45,9 @@
                    ('...', '...' , ...);
 
         - Remplacez les pointilliers par ce que vous voulez tout en respectant ( VARCHAR, VARCHAR, INT )
+       
+          [Capture vidéo du 2025-01-07 09-17-11.webm](https://github.com/user-attachments/assets/149c42fa-65f9-4070-8997-d6b7f34db71d)
+
 
 3. Préparation du Code
 
@@ -64,4 +67,17 @@
         
         - Mettez un autre identifiant que root car cela peut poser des problèmes à la connexion entre le code et la base de données.
 
-   
+4. Compilation et Exécution
+
+      - Pour compiler et exécuter sur Qt, c'est très simple, tapez *CTRL + R* 
+
+5. Dépannage des erreurs de connexion
+
+      - Assurez-vous que le serveur MySQL est démarré :
+
+            sudo service mysql start
+            Vérifiez que l'adresse et le port sont corrects.
+
+      - Si nécessaire, configurez MySQL pour accepter les connexions réseau en modifiant /etc/mysql/mysql.conf.d/mysqld.cnf et en commentant bind-address avec #. Redémarrez ensuite MySQL :
+
+            sudo service mysql restart
