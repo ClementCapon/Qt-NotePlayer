@@ -1,4 +1,4 @@
-# Qt-NotePlayer
+[Capture vidéo du 2025-01-07 09-47-34.webm](https://github.com/user-attachments/assets/1fe2d2e4-e717-4bd5-ab5e-b9f215151651)# Qt-NotePlayer
 
 1. Prérequis
 
@@ -32,21 +32,15 @@
                 club VARCHAR(50),
                 note INT
             );
-
-      - Si vous souhaitez utilisez le fichier notejoueur.sql, executez cette commande dans le terminal : 
-
-            mysql -u nom_utilisateur -p NoteJoueur < notejoueur.sql
         
-      - Sinon, executez ceci dans MySQL :
+      - Remplacez les pointilliers par ce que vous voulez, tout en respectant ( VARCHAR, VARCHAR, INT ):
         
             INSERT INTO Joueur (nom, club, note)
             VALUES ('...', '...' , ... ),
                    ('...', '...' , ...),
                    ('...', '...' , ...);
 
-        - Remplacez les pointilliers par ce que vous voulez tout en respectant ( VARCHAR, VARCHAR, INT )
-
-[Affichage de la BDD et de ce qu'elle contient](https://github.com/user-attachments/assets/149c42fa-65f9-4070-8997-d6b7f34db71d)
+[Capture vidéo du 2025-01-07 09-47-34.webm](https://github.com/user-attachments/assets/7c0f9612-686f-4700-8b70-468ce8ee4fea)
 
 
 3. Préparation du Code
@@ -71,11 +65,12 @@
 
       - Pour compiler et exécuter sur Qt, c'est très simple, tapez *CTRL + R* 
 
-[Mise à Jour de la BDD](https://github.com/user-attachments/assets/67bc1ba2-8f25-4be0-a693-9fb92dd2801f)
+[Mise à Jour de la BDD](https://github.com/user-attachments/assets/dd5726fc-8807-45af-80ba-1a064908ac6c)
+
 
 Pour confirmer la modification tapez la touche *entrer*
 
-[Après la Mise à Jour](https://github.com/user-attachments/assets/f4d06371-baf7-41cf-a5a9-43eb7ce1ae45)
+[Après la Mise à Jour](https://github.com/user-attachments/assets/bc28e239-ad7f-4064-822a-63cef2519350)
       
 5. Dépannage des erreurs de connexion
 
